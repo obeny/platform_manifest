@@ -7,8 +7,7 @@
 
   <remote  name="rr"
            fetch="https://github.com/"
-           revision="oreo"
-	   review="gerrit.resurrectionremix.com" />
+           revision="oreo" />
 
   <remote  name="rr-devices"
            fetch="https://github.com/ResurrectionRemix-Devices"

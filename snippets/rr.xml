@@ -21,8 +21,12 @@
   <project path="frameworks/base" name="ResurrectionRemix/android_frameworks_base" remote="rr" />
   <project path="frameworks/native" name="ResurrectionRemix/frameworks_native" remote="rr" />
   <project path="lineage-sdk" name="ResurrectionRemix/lineage-sdk" remote="rr" />
-  <project path="packages/overlays/Resurrection" name="ResurrectionRemix/android_packages_overlays_Resurrection" remote="rr" />
+
   <project path="packages/apps/LineageParts" name="ResurrectionRemix/packages_apps_LineageParts" remote="rr"/>
+  <project path="packages/overlays/Resurrection" name="ResurrectionRemix/android_packages_overlays_Resurrection" remote="rr" />
+  <project path="packages/services/Telecomm" name="ResurrectionRemix/android_packages_services_Telecomm" remote="rr" />
+  <project path="packages/services/Telephony" name="ResurrectionRemix/android_packages_services_Telephony" remote="rr" />
+
   <project path="system/core" name="ResurrectionRemix/system_core" remote="rr" />
   <project path="system/sepolicy" name="ResurrectionRemix/android_system_sepolicy" remote="rr" />
   <project path="vendor/rr" name="ResurrectionRemix/android_vendor_resurrection" remote="rr" />

@@ -23,7 +23,6 @@
   <project path="lineage-sdk" name="ResurrectionRemix/lineage-sdk" remote="rr" />
 
   <project path="packages/apps/LineageParts" name="ResurrectionRemix/packages_apps_LineageParts" remote="rr"/>
-  <project path="packages/overlays/Resurrection" name="ResurrectionRemix/android_packages_overlays_Resurrection" remote="rr" />
   <project path="packages/services/Telecomm" name="ResurrectionRemix/android_packages_services_Telecomm" remote="rr" />
   <project path="packages/services/Telephony" name="ResurrectionRemix/android_packages_services_Telephony" remote="rr" />
 
@@ -40,6 +39,8 @@
   <project path="packages/apps/OmniStyle" name="ResurrectionRemix/android_packages_apps_OmniStyle" remote="rr" />
   <project path="packages/apps/ResurrectionOTA" name="ResurrectionRemix/packages_apps_ResurrectionOTA" remote="rr" />
   <project path="packages/apps/Settings" name="ResurrectionRemix/Resurrection_packages_apps_Settings" remote="rr" />
+
+  <project path="packages/overlays/Resurrection" name="ResurrectionRemix/android_packages_overlays_Resurrection" remote="rr" />
 
   <project path="packages/services/OmniJaws" name="ResurrectionRemix/packages_services_OmniJaws" remote="rr" />
 

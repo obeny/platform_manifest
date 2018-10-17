@@ -16,19 +16,19 @@
   </project>
 
   <!-- SHARED WITH LOS -->
-  <project path="device/rr/sepolicy" name="ResurrectionRemix/device_rr_sepolicy" remote="rr" />
-  <project path="device/qcom/sepolicy" name="ResurrectionRemix/device_qcom_sepolicy" remote="rr" />
   <project path="frameworks/base" name="ResurrectionRemix/android_frameworks_base" remote="rr" />
   <project path="frameworks/native" name="ResurrectionRemix/frameworks_native" remote="rr" />
   <project path="lineage-sdk" name="ResurrectionRemix/lineage-sdk" remote="rr" />
-
   <project path="packages/apps/LineageParts" name="ResurrectionRemix/packages_apps_LineageParts" remote="rr"/>
   <project path="packages/services/Telecomm" name="ResurrectionRemix/android_packages_services_Telecomm" remote="rr" />
   <project path="packages/services/Telephony" name="ResurrectionRemix/android_packages_services_Telephony" remote="rr" />
-
   <project path="system/core" name="ResurrectionRemix/system_core" remote="rr" />
-  <project path="system/sepolicy" name="ResurrectionRemix/android_system_sepolicy" remote="rr" />
   <project path="vendor/rr" name="ResurrectionRemix/android_vendor_resurrection" remote="rr" />
+
+  <!-- SHARED WITH LOS CUSTOM -->
+  <project path="device/rr/sepolicy" name="obeny/device_rr_sepolicy" remote="github" revision="oreo" />
+  <project path="device/qcom/sepolicy" name="obeny/device_qcom_sepolicy" remote="github" revision="oreo" />
+  <project path="system/sepolicy" name="obeny/android_system_sepolicy" remote="github" revision="oreo" />
 
   <!-- RR SPECIFIC -->
   <project path="external/DUtils" name="ResurrectionRemix/external_DUtils" remote="rr"/>

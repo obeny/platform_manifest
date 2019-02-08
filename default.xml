@@ -15,7 +15,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-8.1.0_r60" />
+           revision="refs/tags/android-8.1.0_r61" />
 
   <remote  name="aosp-no_ver"
            fetch="https://android.googlesource.com"/>

@@ -12,3 +12,4 @@
 
 - moved platform manifest definition to snippets/obeny_rr.xml
 - remove Updater, it won't be used, upgrade through flashing only
+- drop sdm710 repos

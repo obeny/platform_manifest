@@ -652,6 +652,6 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/rr.xml" />
 
-  <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+  <!--<repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />-->
 
 </manifest>

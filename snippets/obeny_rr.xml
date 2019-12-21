@@ -10,4 +10,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
+
+<!-- RR overrides -->
+<project path="packages/apps/LineageParts" name="obeny/android_packages_apps_LineageParts" revision="pie"/>
 </manifest>

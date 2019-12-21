@@ -12,5 +12,6 @@
   </project>
 
 <!-- RR overrides -->
-<project path="packages/apps/LineageParts" name="obeny/android_packages_apps_LineageParts" revision="pie"/>
+<project path="packages/apps/LineageParts" name="obeny/android_packages_apps_LineageParts" revision="pie" />
+<project path="frameworks/base" name="obeny/android_frameworks_base" revision="pie" />
 </manifest>

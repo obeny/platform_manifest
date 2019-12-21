@@ -9,3 +9,5 @@
 - drop infrastructure/tools sections
 - remove darwin stuff, we are building on linux only
 - remove crowdin.xml
+
+- moved platform manifest definition to snippets/obeny_rr.xml

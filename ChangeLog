@@ -1,4 +1,11 @@
-21 Dec 2019
+26 Dec 2019
 ===========
 
 - prepared repos, taken directly from RR-pie
+- updated manifest to 9.0.0_r51
+- sync snippets/lineage.xml
+- sync default.xml (add lineage patches)
+- drop useless caf repos to speedup download
+- drop infrastructure/tools sections
+- remove darwin stuff, we are building on linux only
+- remove crowdin.xml

@@ -12,4 +12,9 @@
 
 - moved platform manifest definition to snippets/obeny_rr.xml
 - remove Updater, it won't be used, upgrade through flashing only
+- forked repos from RessurectionRemix to be in sync with LineageOS
 - drop sdm710 repos
+- drop sdm845 repos
+
+- switch default kernel to Mady's Extended reborn (roomservice)
+- update blobs from OxygenOS 9.0.5 (roomservice)

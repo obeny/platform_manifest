@@ -18,6 +18,7 @@
 <!--<project path="packages/services/Telecomm" name="obeny/android_packages_services_Telecomm" remote="github" revision="pie" />-->
 <project path="packages/services/Telephony" name="obeny/android_packages_services_Telephony" remote="github" revision="pie" />
 <project path="frameworks/av" name="obeny/frameworks_av" remote="github" revision="pie" />
+<project path="system/core" name="obeny/android_system_core" remote="github" revision="pie" />
 <project path="system/ca-certificates" name="obeny/platform_system_ca-certificates" remote="github" revision="pie" />
 <project path="packages/apps/Updater" name="obeny/android_packages_apps_Updater" remote="github" revision="pie" />
 </manifest>

@@ -1,3 +1,12 @@
+14 Mar 2020
+===========
+
+- synchronized with lineageos
+- synchronized with google (9.0.0_r54)
+- changed security sting to 05-Mar-2020
+- reverted heap allocation rework to prevent OutOutMemory errors
+- switched back to official lineageos kernel sources instead of OmniPie due to some stability issues
+
 15 Feb 2020
 ===========
 

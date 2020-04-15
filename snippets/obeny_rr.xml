@@ -12,6 +12,7 @@
   </project>
 
 <!-- RR overrides -->
+<project path="device/qcom/sepolicy" name="obeny/device_qcom_sepolicy" remote="github" revision="pie" />
 <project path="packages/apps/LineageParts" name="obeny/android_packages_apps_LineageParts" remote="github" revision="pie" />
 <project path="frameworks/base" name="obeny/android_frameworks_base" remote="github" revision="pie" />
 <project path="frameworks/native" name="obeny/android_frameworks_native" remote="github" revision="pie" />

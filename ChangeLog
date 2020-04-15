@@ -1,3 +1,12 @@
+15 Apr 2020
+===========
+
+- synchronized with lineageos-16.0
+- synchronized with google (9.0.0_r55)
+- changed security sting to 05-Apr-2020
+- updated qcom sepolicy
+- updated Trebuchet
+
 14 Mar 2020
 ===========
 
